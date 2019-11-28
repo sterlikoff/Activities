@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="prevButtonLabel">Назад</string>
+    <string name="nextButtonLabel">Вперед</string>
+</resources>
